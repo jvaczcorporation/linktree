@@ -47445,8 +47445,8 @@ U:function(a,b){return new S.pL(new F.pY(null),"Flutter Demo",X.a43(null,C.jH),!
 F.pY.prototype={
 aS:function(){return new F.DL(C.m)}}
 F.DL.prototype={
-U:function(a,b){var s=null,r=H.c([C.lU.h(0,900),C.lU.h(0,600),C.jH],t.r8),q=T.mA(s,50,s),p=U.a2G("assets/jv2.png",100,s),o=T.mA(s,50,s),n=t.fQ,m=T.Zu(H.c([L.a_p("Jo\xe3o Vitor Alves da Cruz",A.nb(s,s,C.j,s,s,s,s,s,s,s,s,18,s,C.eL,s,s,!0,s,s,s,s,s,s)),L.a_p("Flutter  Developer",A.nb(s,s,C.t,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s))],n)),l=K.Id(30)
-return M.a_3(C.ch,M.oA(s,T.Zu(H.c([q,new K.vx(p,50,s),o,m,new T.hf(C.u6,M.oA(s,M.oA(s,new T.hf(C.ok,T.Zu(H.c([new F.wi("Login com google","assets/google.png",new F.VC(),s)],n)),s),C.A,s,s,s,s,s,s,s,s,1/0),C.A,s,new S.ef(C.j,s,s,l,s,s,C.a1),s,100,s,s,s,s,s),s)],n)),C.A,s,new S.ef(s,s,s,s,s,new T.jU(C.qW,C.qV,C.fX,r,s,s),C.a1),s,s,s,s,s,s,s),C.A,s,0,s,s,s,C.hL)}}
+U:function(a,b){var s=null,r=H.c([C.lU.h(0,900),C.lU.h(0,600),C.jH],t.r8),q=T.mA(s,50,s),p=U.a2G("web/assets/jv2.png",100,s),o=T.mA(s,50,s),n=t.fQ,m=T.Zu(H.c([L.a_p("Jo\xe3o Vitor Alves da Cruz",A.nb(s,s,C.j,s,s,s,s,s,s,s,s,18,s,C.eL,s,s,!0,s,s,s,s,s,s)),L.a_p("Flutter  Developer",A.nb(s,s,C.t,s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s))],n)),l=K.Id(30)
+return M.a_3(C.ch,M.oA(s,T.Zu(H.c([q,new K.vx(p,50,s),o,m,new T.hf(C.u6,M.oA(s,M.oA(s,new T.hf(C.ok,T.Zu(H.c([new F.wi("Login com google","web/assets/google.png",new F.VC(),s)],n)),s),C.A,s,s,s,s,s,s,s,s,1/0),C.A,s,new S.ef(C.j,s,s,l,s,s,C.a1),s,100,s,s,s,s,s),s)],n)),C.A,s,new S.ef(s,s,s,s,s,new T.jU(C.qW,C.qV,C.fX,r,s,s),C.a1),s,s,s,s,s,s,s),C.A,s,0,s,s,s,C.hL)}}
 F.VC.prototype={
 $0:function(){return F.GY("https://gitlab.com/jvaczcorporation/login_google")},
 $S:0}
